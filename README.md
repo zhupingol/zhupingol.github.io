@@ -1,8 +1,8 @@
 #### 我是一个GitHub个人blog
 
->次blog用来演示代码
+>第一次blog用来演示代码
 
-```javascript
+```javaScript
 var div = document.createElement('div')
 ```
 
