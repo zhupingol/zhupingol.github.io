@@ -3,6 +3,6 @@
 >次blog用来演示代码
 
 ```javascript
-var div = document.createElement('div)
+var div = document.createElement('div')
 ```
 
